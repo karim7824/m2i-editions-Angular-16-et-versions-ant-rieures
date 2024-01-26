@@ -1,0 +1,40 @@
+<paragraphe titre="Le FormBuilder">
+	<sparagraphes>
+		<sparagraphe titre="TITRE">
+			<illustration>ILLUSTRATION</illustration>
+			<contenu>CONTENU1</contenu>
+			<exemples>
+				<exemple>
+					<description>
+					EXEMPLEDESCRIPTION
+					</description>
+					EXEMPLECONTENU
+					<contenu>
+					</contenu>
+				</exemple>
+			</exemples>
+			<sites>
+				<site></site>
+				<site></site>
+			</sites>
+			<exercices>
+				<exercice>
+					<enonce>ENONCE</enonce>
+					<corrige>CORRIGE</corrige>
+					<download>DOWNLOAD</download>
+				</exercice>
+			</exercices>
+		</sparagraphe>
+	</sparagraphes>
+	<ia>
+		<theme>
+		Angular
+		</theme>
+		<questions>
+			En francais Expliquer : Angular, SUJET -
+			En francais Comment utiliser : Angular, SUJET -
+			En francais Exemple simple : Angular, SUJET -
+			En francais Syntaxe : Angular, SUJET
+		</questions>
+	</ia>
+</paragraphe>

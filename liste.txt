@@ -1,0 +1,44 @@
+Architecture  installation et
+-Architecture typique d'une application
+-Installation minimale d'Angular
+-Test d'un code simple
+TypeScript
+-TypeScript   le JavaScript typé
+-Les types  classes et modules
+-L'asynchrone et les promesses
+Rôle majeur des composants
+-Définition d'un composant Angular
+-Décorateurs
+-Les vues
+-Le modèle
+Une première application Angular
+-Démarrer from scratch avec Angular
+-Création d'un premier projet
+Les templates
+-Utiliser l'interpolation
+-Property et event bindings
+-Utiliser des variables locales
+-Utilisation des pipes
+-Création de services
+-Injection de services
+Les formulaires
+-Création de formulaires avec
+-Le FormsModule
+-Le FormBuilder
+-Validation et gestion des erreurs
+Rôle de RxJS (Reactive extensions
+-Présentation des flux de données
+-Propagation des changements avec
+Travail avec HTTP
+-Le service HTTP
+-Communication avec une API en
+Le routage
+-Les différentes versions du module
+-Fonctionnement du routage
+-Configurer des routes et utiliser
+Les standalone components
+-Présentation du concept des composants
+-Les avantages de l'utilisation
+-Présentation des meilleures pratiques
+Les tests
+-Présentation de Jasmine et Karma
